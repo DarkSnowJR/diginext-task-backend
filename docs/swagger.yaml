@@ -1,0 +1,81 @@
+swagger: "2.0"
+info:
+  description: "API Documentation for Following System"
+  version: "1.0.0"
+  title: "Following System API"
+host: "localhost:5000"
+schemes:
+  - "http"
+paths:
+  /follow:
+    post:
+      summary: "Follow a user"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: "Follower and Followee IDs"
+          required: true
+          schema:
+            type: "object"
+            properties:
+              follower_id:
+                type: "integer"
+              followee_id:
+                type: "integer"
+      responses:
+        201:
+          description: "Followed successfully"
+        400:
+          description: "You cannot follow yourself"
+  /unfollow:
+    post:
+      summary: "Unfollow a user"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: "Follower and Followee IDs"
+          required: true
+          schema:
+            type: "object"
+            properties:
+              follower_id:
+                type: "integer"
+              followee_id:
+                type: "integer"
+      responses:
+        200:
+          description: "Unfollowed successfully"
+        404:
+          description: "Follow relationship does not exist"
+  /followers_count/{user_id}:
+    get:
+      summary: "Get followers count for a user"
+      parameters:
+        - name: "user_id"
+          in: "path"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Followers count"
+  /common_followers/{user1_id}/{user2_id}:
+    get:
+      summary: "Get common followers of two users"
+      parameters:
+        - name: "user1_id"
+          in: "path"
+          required: true
+          type: "integer"
+        - name: "user2_id"
+          in: "path"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Common followers"
+  /users:
+    get:
+      summary: "Get list of users with their followers and followees"
+      responses:
+        200:
+          description: "List of users"

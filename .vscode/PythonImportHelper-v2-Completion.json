@@ -1,0 +1,374 @@
+[
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "FollowAPI",
+        "importPath": "resources.follow",
+        "description": "resources.follow",
+        "isExtraImport": true,
+        "detail": "resources.follow",
+        "documentation": {}
+    },
+    {
+        "label": "UnfollowAPI",
+        "importPath": "resources.unfollow",
+        "description": "resources.unfollow",
+        "isExtraImport": true,
+        "detail": "resources.unfollow",
+        "documentation": {}
+    },
+    {
+        "label": "FollowersCountAPI",
+        "importPath": "resources.followers_count",
+        "description": "resources.followers_count",
+        "isExtraImport": true,
+        "detail": "resources.followers_count",
+        "documentation": {}
+    },
+    {
+        "label": "CommonFollowersAPI",
+        "importPath": "resources.common_followers",
+        "description": "resources.common_followers",
+        "isExtraImport": true,
+        "detail": "resources.common_followers",
+        "documentation": {}
+    },
+    {
+        "label": "UserListAPI",
+        "importPath": "resources.user_list",
+        "description": "resources.user_list",
+        "isExtraImport": true,
+        "detail": "resources.user_list",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "CommonFollowersAPI",
+        "kind": 6,
+        "importPath": "resources.common_followers",
+        "description": "resources.common_followers",
+        "peekOfCode": "class CommonFollowersAPI(Resource):\n    def get(self, user1_id, user2_id):\n        followers_user1 = db.session.query(Follow.follower_id).filter_by(\n            followee_id=user1_id).subquery()\n        followers_user2 = db.session.query(Follow.follower_id).filter_by(\n            followee_id=user2_id).subquery()\n        common_followers = db.session.query(Follow.follower_id).filter(Follow.follower_id.in_(\n            followers_user1)).filter(Follow.follower_id.in_(followers_user2)).all()\n        common_followers_list = [\n            follower.follower_id for follower in common_followers]",
+        "detail": "resources.common_followers",
+        "documentation": {}
+    },
+    {
+        "label": "FollowAPI",
+        "kind": 6,
+        "importPath": "resources.follow",
+        "description": "resources.follow",
+        "peekOfCode": "class FollowAPI(Resource):\n    def post(self):\n        data = request.get_json()\n        follower_id = data.get('follower_id')\n        followee_id = data.get('followee_id')\n        if follower_id == followee_id:\n            return {'message': 'You cannot follow yourself'}, 400\n        follow = Follow(follower_id=follower_id, followee_id=followee_id)\n        db.session.add(follow)\n        db.session.commit()",
+        "detail": "resources.follow",
+        "documentation": {}
+    },
+    {
+        "label": "FollowersCountAPI",
+        "kind": 6,
+        "importPath": "resources.followers_count",
+        "description": "resources.followers_count",
+        "peekOfCode": "class FollowersCountAPI(Resource):\n    def get(self, user_id):\n        count = Follow.query.filter_by(followee_id=user_id).count()\n        return {'user_id': user_id, 'followers_count': count}, 200",
+        "detail": "resources.followers_count",
+        "documentation": {}
+    },
+    {
+        "label": "UnfollowAPI",
+        "kind": 6,
+        "importPath": "resources.unfollow",
+        "description": "resources.unfollow",
+        "peekOfCode": "class UnfollowAPI(Resource):\n    def post(self):\n        data = request.get_json()\n        follower_id = data.get('follower_id')\n        followee_id = data.get('followee_id')\n        follow = Follow.query.filter_by(\n            follower_id=follower_id, followee_id=followee_id).first()\n        if not follow:\n            return {'message': 'Follow relationship does not exist'}, 404\n        db.session.delete(follow)",
+        "detail": "resources.unfollow",
+        "documentation": {}
+    },
+    {
+        "label": "UserListAPI",
+        "kind": 6,
+        "importPath": "resources.user_list",
+        "description": "resources.user_list",
+        "peekOfCode": "class UserListAPI(Resource):\n    def get(self):\n        print(\"Getting user list\")\n        users = User.query.all()\n        print(f\"Retrieved {len(users)} users\")\n        result = []\n        for user in users:\n            print(f\"Processing user {user.id}\")\n            followers = [f.follower_id for f in user.followers]\n            print(f\"Retrieved {len(followers)} followers for user {user.id}\")",
+        "detail": "resources.user_list",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///followers.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\ndb.init_app(app)\napi = Api(app)\nwith app.app_context():\n    db.create_all()\napi.add_resource(FollowAPI, '/follow')\napi.add_resource(UnfollowAPI, '/unfollow')\napi.add_resource(FollowersCountAPI, '/followers_count/<int:user_id>')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///followers.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\ndb.init_app(app)\napi = Api(app)\nwith app.app_context():\n    db.create_all()\napi.add_resource(FollowAPI, '/follow')\napi.add_resource(UnfollowAPI, '/unfollow')\napi.add_resource(FollowersCountAPI, '/followers_count/<int:user_id>')\napi.add_resource(CommonFollowersAPI,",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\ndb.init_app(app)\napi = Api(app)\nwith app.app_context():\n    db.create_all()\napi.add_resource(FollowAPI, '/follow')\napi.add_resource(UnfollowAPI, '/unfollow')\napi.add_resource(FollowersCountAPI, '/followers_count/<int:user_id>')\napi.add_resource(CommonFollowersAPI,\n                 '/common_followers/<int:user1_id>/<int:user2_id>')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "api = Api(app)\nwith app.app_context():\n    db.create_all()\napi.add_resource(FollowAPI, '/follow')\napi.add_resource(UnfollowAPI, '/unfollow')\napi.add_resource(FollowersCountAPI, '/followers_count/<int:user_id>')\napi.add_resource(CommonFollowersAPI,\n                 '/common_followers/<int:user1_id>/<int:user2_id>')\napi.add_resource(UserListAPI, '/users')\nif __name__ == '__main__':",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class User(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    followers = db.relationship(\n        'Follow', foreign_keys='Follow.followee_id', backref='followee', lazy='dynamic')\n    followees = db.relationship(\n        'Follow', foreign_keys='Follow.follower_id', backref='follower', lazy='dynamic')\n    def __repr__(self):\n        return f'<User {self.username}>'\nclass Follow(db.Model):",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class Follow(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    follower_id = db.Column(\n        db.Integer, db.ForeignKey('user.id'), nullable=False)\n    followee_id = db.Column(\n        db.Integer, db.ForeignKey('user.id'), nullable=False)\n    timestamp = db.Column(db.DateTime, server_default=db.func.now())\n    __table_args__ = (\n        db.UniqueConstraint('follower_id', 'followee_id',\n                            name='_follower_followee_uc'),",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "db = SQLAlchemy()\nclass User(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    followers = db.relationship(\n        'Follow', foreign_keys='Follow.followee_id', backref='followee', lazy='dynamic')\n    followees = db.relationship(\n        'Follow', foreign_keys='Follow.follower_id', backref='follower', lazy='dynamic')\n    def __repr__(self):\n        return f'<User {self.username}>'",
+        "detail": "models",
+        "documentation": {}
+    }
+]
